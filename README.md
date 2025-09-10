@@ -16,4 +16,7 @@ Me chamo Karen, tenho 23 anos e atualmente estou estudando Análise e Desenvolvi
 </div>
 
 ### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlldl&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlldl&show_icons=true&theme=dracula&include_all_commits)
+<p></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlldl&layout=compact&theme=dracula)
