@@ -14,3 +14,6 @@ Me chamo Karen, tenho 23 anos e atualmente estou estudando Análise e Desenvolvi
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+### Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlldl&show_icons=true&theme=dracula)
