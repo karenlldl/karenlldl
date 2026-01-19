@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Karen, tenho 23 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP. Tenho um background em design visual, social media e marketing digital, onde atuei com criação de conteúdo, gestão de redes sociais e campanhas estratégicas em diferentes nichos (saúde, arquitetura, artesanato e marketing político).
+Me chamo Karen, tenho 24 anos e atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP. Tenho um background em design visual, social media e marketing digital, onde atuei com criação de conteúdo, gestão de redes sociais e campanhas estratégicas em diferentes nichos (saúde, arquitetura, artesanato e marketing político).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karenlldlira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karenlldl_/)
