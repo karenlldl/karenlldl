@@ -18,9 +18,3 @@ Me chamo Karen, tenho 24 anos e atualmente estou estudando Análise e Desenvolvi
   <img align="center" alt="tailwind" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   
 </div>
-
-### 📊 Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlldl&show_icons=true&theme=dracula&include_all_commits)
-<p></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlldl&layout=compact&theme=dracula)
