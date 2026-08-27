@@ -2,7 +2,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
 🚀 Construindo soluções tecnológicas com impacto real  
-
+💻 Portfólio: https://karen-cardoso-portfolio.vercel.app/
 ---
 
 ## 👩‍💻 Sobre mim  
